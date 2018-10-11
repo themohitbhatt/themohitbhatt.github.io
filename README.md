@@ -6,7 +6,7 @@ The documentaion can be found at https://github.com/themohitbhatt/themohitbhatt.
 The website is hosted at https://themohitbhatt.github.io/
 
 Created as part of Code.Fun.Do project by the team Reverse_Swing of IIT Roorkee.
-Team members:- https://github.com/themohitbhatt
+Team members:- https://github.com/themohitbhatt (Mohit Bhatt)
                https://github.com/prateekInd
                https://github.com/anilbadhran
                
