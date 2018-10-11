@@ -7,7 +7,7 @@ The website is hosted at https://themohitbhatt.github.io/
 
 Created as part of Code.Fun.Do project by the team Reverse_Swing of IIT Roorkee.
 Team members:- https://github.com/themohitbhatt (Mohit Bhatt)
-               https://github.com/prateekInd
+               https://github.com/prateekInd (Prateek )
                https://github.com/anilbadhran
                
             
